@@ -1,0 +1,427 @@
+body{
+    width: 1670px;
+    height: 2000px;
+    margin: 0 auto;
+}
+.header{
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.samsung{
+    width: 100px;
+    height: 60px;
+    margin-top: 10px;
+}
+.yozuv{
+    margin-left: 40px;
+    color: black;
+    text-decoration: none;
+}
+.yozuv1{
+    color: black;
+    margin-left: 30px;
+    text-decoration: none;
+
+}
+
+.poisik{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.div1{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    margin-left: 600px;
+}
+.sec{
+    background-color: slategray;
+    width: 1500px;
+    height: 600px;
+margin-top: -40px;
+}
+.sec1{
+    width: 1500px;
+    height: 600px;
+    position: relative;
+}
+.sec2{
+    width: 1500px;
+    height: 600px;
+}
+.sec3{
+    width: 1500px;
+    height: 600px;
+    margin-top: 100px;
+}
+.sec5{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.galaxyZfold{
+    font-size: 40px;
+    margin-left: 100px;
+    padding-top: 80px;
+}
+.telfon{
+    margin-left: 500px;
+}
+.telfon2{
+    margin-left: -100px;
+}
+.malumot1{
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 15px;
+
+
+}
+.malumot2{
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.malumot3{
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+
+}
+.malumot4{
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.div2{
+    display: flex;
+    flex-direction: row;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+.mobiltuzatish{
+    font-size: 40px;
+text-align: center;
+}
+.div3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+.yozuv2{
+    text-decoration: none;
+    margin-left: 150px;
+}
+.yozuv2:hover{
+    border-bottom: 1px solid black;
+    color: black;
+
+}
+.div4{
+    background-color: slategray;
+    width: 500px;
+    height: 250px;
+    margin-left: 500px;
+}
+.img{
+    width: 100%;
+}
+.yozuv3{
+    font-size: 40px;
+    margin-left:130px;
+}
+.div5{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 650px;
+
+}
+.malumot1:hover{
+    background-color: black;
+    color: blue;
+    border-radius: 20px;
+
+}
+.malumot2:hover{
+    background-color: black;
+    color: blue;
+    border-radius: 20px;
+}
+.img1{
+    width: 100%;
+    height: 600px;
+}
+.yozuv4{
+    font-size: 40px;
+    margin-top: -600px;
+    color: red;
+    margin-left: 650px;
+}
+.yozuv5{
+    margin-left: 150px;
+    text-decoration: none;
+}
+.div6{
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+
+}
+.yozuv5:hover{
+    font-size: 20px;
+    border-bottom: 2px solid red;
+    color: red;
+}
+.yozuv6{
+    color: red;
+    font-size: 40px;
+    margin-top: 300px;
+    margin-left: 650px;
+}
+.yozuv7{
+    margin-left: 600px;
+}
+.bnt{
+    background-color: blue;
+    border-radius: 20px;
+    width: 130px;
+    height: 50px;
+    margin-left: 700px;
+}
+.yozuv8{
+    color: red;
+    font-size: 40px;
+    margin-top: 300px;
+    margin-left: 600px;
+}
+.div7{
+    width: 1500px;
+    height: 200px;
+}
+.yozuv9{
+    font-size: 40px;
+    text-align: center;
+
+}
+.yozuv10{
+    margin-left: 300px;
+    text-decoration: none;
+}
+.yozuv10:hover{
+    font-size: 20px;
+    color: black;
+}
+.card{
+    width: 1500px;
+    height: 600px;
+    display:flex ;
+    flex-direction: row;
+}
+.card1{
+    width: 750px;
+    height: 600px;
+
+}
+.card2{
+    width: 750px;
+    height: 600px;
+
+}
+.card3{
+    width:350px;
+    height: 250px;
+
+}
+.card4{
+    width:350px;
+    height: 250px;
+    margin-top: -250px;
+position: relative;
+}
+.card5{
+    width:350px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: -250px;
+    position: relative;
+
+}
+.card6{
+    width:350px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: 70px;
+
+}
+.img2{
+    width: 100%;
+    height: 100%;
+}
+.s22{
+    margin-top: -40px;
+    margin-left: 290px;
+}
+.s23{
+margin-top:-35px ;
+    margin-left: 100px;
+}
+.buds{
+    margin-left: 100px;
+    margin-top: -30px;
+}
+.watch{
+    margin-top: -20px;
+    margin-left: 100px;
+}
+.s8ultra{
+    margin-top: -30px;
+    margin-left:60px;
+}
+.bnt1{
+    width: 100px;
+    height: 40px;
+    background-color: blue;
+    border-radius: 20px;
+    position: absolute;
+    top: 5px;
+}
+.exp{
+    text-align: center;
+    font-size: 30px;
+}
+.qizlar{
+    width: 600px;
+    height: 500px;
+}
+.chiziq{
+    width: 800px;
+    height: 3px;
+    background-color: black;
+    margin-top: 50px;
+}
+.qizlar2{
+    width: 800px;
+    height: 500px;
+    margin-left: 300px;
+    position: absolute;
+    right: 5px;
+    margin-top: -480px;
+}
+.suz{
+    margin-top: 60px;
+    font-size: 30px;
+}
+.div8{
+    width: 1500px;
+    height: 300px;
+}
+.suz1{
+    font-size: 30px;
+    text-align: center;
+}
+.input{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    margin-left: 600px;
+}
+.poisik1{
+    width: 15px;
+    height: 18px;
+    margin-left: -300px;
+}
+.bnt2{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.bnt3{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+.bnt4{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+.bnt5{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+
+.div9{
+    width: auto;
+    height: auto;
+    margin-top: -150px;
+    margin-left: 550px;
+}
+.div10{
+    width: auto;
+    height: auto;
+    margin-top: 5px;
+    margin-left: 650px;
+
+}
+.bnt6{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+.bnt7{
+    width: 100px;
+    height: 30px;
+    background-color: wheat;
+    border: 2px solid black;
+    border-radius: 15px;
+
+}
+.div11{
+    width: 500px;
+    height: auto;
+    text-align: center;
+    margin-left: 20px;
+}
+.foot{
+    width: 1700px;
+    height: 100px;
+}
